@@ -1,21 +1,25 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "ArnauGF.github.io"
+  title: "Arnau Garcia-Fernández"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - publications.qmd
+      - software.qmd
+      - talks.qmd
+      - cv.qmd
+
+  page-footer:
+    left: |
+      © 2026 Arnau Garcia-Fernández
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-editor: visual
-
+    toc: false
+    page-layout: full

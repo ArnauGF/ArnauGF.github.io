@@ -1,11 +1,112 @@
 ---
-title: "ArnauGF.github.io"
+title: ""
 ---
 
-This is a Quarto website.
+::: {.columns}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+:::: {.column width="35%"}
 
-```{r}
-1 + 1
-```
+<div class="profile-card">
+
+![](images/profile.jpg){width=85%}
+
+# Arnau Garcia-Fernández
+
+##### PhD Candidate in Biostatistics
+
+#### [Erasmus MC](https://www.erasmusmc.nl/en/research/departments/biostatistics)
+
+<div class="contact-icons">
+
+<a href="mailto:a.garciafernandez@erasmusmc.nl">
+  <img src="images/icons/mail.png" width="28px">
+</a>
+
+<a href="https://github.com/ArnauGF" target="_blank">
+  <img src="images/icons/github.png" width="28px">
+</a>
+
+<a href="https://orcid.org/0009-0009-7370-6980" target="_blank">
+  <img src="images/icons/orcid.png" width="28px">
+</a>
+
+<a href="https://scholar.google.com/citations?user=AjEvmFUAAAAJ&hl=es&oi=ao" target="_blank">
+  <img src="images/icons/scholar.png" width="28px">
+</a>
+
+<a href="https://www.linkedin.com/in/garciaarnaumaths/" target="_blank">
+  <img src="images/icons/linkedin.png" width="28px">
+</a>
+
+</div>
+
+</div>
+
+
+
+::::
+
+:::: {.column width="65%"}
+
+## About Me
+
+I am a PhD candidate in Biostatistics at Erasmus MC in Rotterdam, the Netherlands. I work on methods and software for survival analysis, longitudinal analysis and joint modeling.
+
+## Upcoming talks
+
+<div class="talk-card">
+
+<div class="talk-conference">
+40th International Workshop on Statistical Modelling (IWSM)
+</div>
+
+Oslo, Norway, June 28 -- July 3, 2026.
+
+<div class="talk-authors">
+<strong>A. Garcia-Fernández</strong>, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.
+</div>
+
+<div class="talk-title">
+"A Strictly Proper Metric for Evaluating Dynamic Predictions for Left-Truncated and Right- Censored Data with Asymmetric Misclassification"
+</div>
+
+<div class="talk-badge talk-contributed">
+Contributed Talk
+</div>
+
+<div class="talk-award">
+🏆 Travel Award
+</div>
+
+</div>
+
+<div class="talk-card">
+
+<div class="talk-conference">
+47th Annual Conference of the International Society for Clinical Biostatistics (ISCB)
+</div>
+
+Freiburg, Germany, September 27 -- October 1, 2026.
+
+<div class="talk-authors">
+<strong>A. Garcia-Fernández</strong>, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.
+</div>
+
+<div class="talk-title">
+"A Strictly Proper Metric to Evaluate Dynamic Predictions for Left-Truncated and Right-Censored Data with Asymmetric Misclassification"
+</div>
+
+<div class="talk-badge talk-contributed">
+Contributed Talk
+</div>
+
+<div class="talk-award">
+🏆 Student Conference Award (StCA)
+</div>
+
+</div>
+
+
+::::
+
+:::

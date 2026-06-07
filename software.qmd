@@ -1,0 +1,31 @@
+# Software
+
+## R Packages
+
+::: {.columns}
+
+:::: {.column width="20%"}
+
+![](images/GofCens.png){width=100%}
+
+::::
+
+:::: {.column width="80%"}
+
+### GofCens
+
+**Authors:**  
+Mireia Besalú, Klaus Langohr, Matilde Francisco, **Arnau Garcia-Fernández**, Guadalupe Gómez Melis
+
+**Description:**  
+The **GofCens** R package offers graphical tools and implements goodness-of-fit tests for right-censored data.
+
+**Links**
+
+- [GitHub Repository](https://github.com/ArnauGF/GofCens)
+- [CRAN Package](https://cran.r-project.org/package=GofCens)
+- [R Journal Paper](https://doi.org/10.32614/RJ-2025-026)
+
+::::
+
+:::

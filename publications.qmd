@@ -1,0 +1,12 @@
+# Publications
+
+## 2025
+
+Mireia Besalú, Klaus Langohr, Matilde Francisco, **Arnau Garcia-Fernández**, Guadalupe Gómez Melis. 
+
+[Goodness-of-Fit Methods for Right-Censored Data](https://doi.org/10.32614/RJ-2025-026). 
+
+*R Journal 17, 100–124 (2025)*.
+
+---
+

@@ -1,0 +1,87 @@
+# Recent Talks
+
+## 2026
+
+<div class="talk-card">
+
+<div class="talk-conference">
+11th Survival Analysis for Junior Researchers (SAfJR)
+</div> 
+
+Amsterdam, the Netherlands
+
+<div class="talk-date">
+25–27 March 2026
+</div>
+
+<div class="talk-authors">
+<strong>A. Garcia-Fernández</strong>, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso
+</div>
+
+<div class="talk-title">
+"A New Strictly Proper Metric for Evaluating Dynamic Time-to-Event Predictions with Asymmetric Misclassification"
+</div>
+
+<div class="talk-badge talk-contributed">
+Contributed Talk
+</div>
+
+</div>
+
+## 2025
+
+<div class="talk-card">
+
+<div class="talk-conference">
+XX Spanish Biometrics Conference (CEB)
+</div>
+
+Elche, Spain
+
+<div class="talk-date">
+16–19 September 2025
+</div>
+
+<div class="talk-authors">
+<strong>A. Garcia-Fernández</strong>, D. Rizopoulos, G. Gómez Melis
+</div>
+
+<div class="talk-title">
+"Optimizing dynamic predictions from joint models for multivariate longitudinal and time-to-event data via super learning approach"
+</div>
+
+<div class="talk-badge talk-contributed">
+Contributed Talk
+</div>
+
+<div class="talk-award">
+🏆 Student Award
+</div>
+
+</div>
+
+<div class="talk-card">
+
+<div class="talk-conference">
+XLI Spanish National Congress of Statistics and Operations Research (SEIO)
+</div>
+
+Lleida, Spain
+
+<div class="talk-date">
+10–13 June 2025
+</div>
+
+<div class="talk-authors">
+<strong>A. Garcia-Fernández</strong>, K. Langohr, M. Besalú, G. Gómez Melis
+</div>
+
+<div class="talk-title">
+"Goodness-of-fit methods for right-censored data: theory, implementation in R, and application in accelerated failure time models"
+</div>
+
+<div class="talk-badge talk-contributed">
+Contributed Talk
+</div>
+
+</div>
