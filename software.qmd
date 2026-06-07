@@ -2,7 +2,7 @@
 
 ## R Packages
 
-::: {.columns}
+::: {.columns .profile-layout}
 
 :::: {.column width="20%"}
 

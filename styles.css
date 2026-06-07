@@ -102,3 +102,40 @@ img {
   background-color: #fff7d6;
   color: #8a6d00;
 }
+
+/* ---------- Desktop default (keep 2 columns) ---------- */
+.profile-layout {
+  align-items: flex-start;
+}
+
+/* ---------- Mobile view ---------- */
+@media screen and (max-width: 768px) {
+
+  .profile-layout {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .profile-layout .column {
+    width: 100% !important;
+    max-width: 100% !important;
+  }
+
+  /* Make profile image smaller on mobile */
+  .profile-layout img {
+    width: 60% !important;
+    margin: 0 auto;
+    display: block;
+  }
+
+  /* Center text nicely on mobile */
+  .profile-card {
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .profile-layout .column {
+    padding-bottom: 15px;
+  }
+}
