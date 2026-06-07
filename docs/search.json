@@ -42,25 +42,18 @@
     "text": "XX Spanish Biometrics Conference (CEB)\n\nElche, Spain\n\n16–19 September 2025\n\n\nA. Garcia-Fernández, D. Rizopoulos, G. Gómez Melis\n\n\n“Optimizing dynamic predictions from joint models for multivariate longitudinal and time-to-event data via super learning approach”\n\n\nContributed Talk\n\n\n🏆 Student Award\n\n\n\n\nXLI Spanish National Congress of Statistics and Operations Research (SEIO)\n\nLleida, Spain\n\n10–13 June 2025\n\n\nA. Garcia-Fernández, K. Langohr, M. Besalú, G. Gómez Melis\n\n\n“Goodness-of-fit methods for right-censored data: theory, implementation in R, and application in accelerated failure time models”\n\n\nContributed Talk"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Arnau Garcia-Fernández",
-    "section": "",
-    "text": "I am a PhD candidate in Biostatistics at Erasmus MC in Rotterdam, the Netherlands. I work on methods and software for survival analysis, longitudinal analysis and joint modeling.\n\n\n\n\n\n40th International Workshop on Statistical Modelling (IWSM)\n\nOslo, Norway, June 28 – July 3, 2026.\n\nA. Garcia-Fernández, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.\n\n\n“A Strictly Proper Metric for Evaluating Dynamic Predictions for Left-Truncated and Right- Censored Data with Asymmetric Misclassification”\n\n\nContributed Talk\n\n\n🏆 Travel Award\n\n\n\n\n47th Annual Conference of the International Society for Clinical Biostatistics (ISCB)\n\nFreiburg, Germany, September 27 – October 1, 2026.\n\nA. Garcia-Fernández, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.\n\n\n“A Strictly Proper Metric to Evaluate Dynamic Predictions for Left-Truncated and Right-Censored Data with Asymmetric Misclassification”\n\n\nContributed Talk\n\n\n🏆 Student Conference Award (StCA)"
-  },
-  {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Arnau Garcia-Fernández",
-    "section": "",
-    "text": "I am a PhD candidate in Biostatistics at Erasmus MC in Rotterdam, the Netherlands. I work on methods and software for survival analysis, longitudinal analysis and joint modeling."
+    "section": "About Me",
+    "text": "About Me\nI am a PhD candidate in Biostatistics at Erasmus MC in Rotterdam, the Netherlands. I work on methods and software for survival analysis, longitudinal analysis and joint modeling."
   },
   {
     "objectID": "index.html#upcoming-talks",
     "href": "index.html#upcoming-talks",
     "title": "Arnau Garcia-Fernández",
-    "section": "",
-    "text": "40th International Workshop on Statistical Modelling (IWSM)\n\nOslo, Norway, June 28 – July 3, 2026.\n\nA. Garcia-Fernández, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.\n\n\n“A Strictly Proper Metric for Evaluating Dynamic Predictions for Left-Truncated and Right- Censored Data with Asymmetric Misclassification”\n\n\nContributed Talk\n\n\n🏆 Travel Award\n\n\n\n\n47th Annual Conference of the International Society for Clinical Biostatistics (ISCB)\n\nFreiburg, Germany, September 27 – October 1, 2026.\n\nA. Garcia-Fernández, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.\n\n\n“A Strictly Proper Metric to Evaluate Dynamic Predictions for Left-Truncated and Right-Censored Data with Asymmetric Misclassification”\n\n\nContributed Talk\n\n\n🏆 Student Conference Award (StCA)"
+    "section": "Upcoming talks",
+    "text": "Upcoming talks\n\n\n40th International Workshop on Statistical Modelling (IWSM)\n\nOslo, Norway, June 28 – July 3, 2026.\n\nA. Garcia-Fernández, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.\n\n\n“A Strictly Proper Metric for Evaluating Dynamic Predictions for Left-Truncated and Right- Censored Data with Asymmetric Misclassification”\n\n\nContributed Talk\n\n\n🏆 Travel Award\n\n\n\n\n47th Annual Conference of the International Society for Clinical Biostatistics (ISCB)\n\nFreiburg, Germany, September 27 – October 1, 2026.\n\nA. Garcia-Fernández, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.\n\n\n“A Strictly Proper Metric to Evaluate Dynamic Predictions for Left-Truncated and Right-Censored Data with Asymmetric Misclassification”\n\n\nContributed Talk\n\n\n🏆 Student Conference Award (StCA)"
   },
   {
     "objectID": "software.html",

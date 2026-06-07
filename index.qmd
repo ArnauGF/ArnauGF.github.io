@@ -2,13 +2,11 @@
 title: ""
 ---
 
-::: {.columns}
 
-:::: {.column width="35%"}
 
 <div class="profile-card">
 
-![](images/profile.jpg){width=85%}
+![](images/profile.jpg){width=25%}
 
 # Arnau Garcia-Fernández
 
@@ -44,9 +42,6 @@ title: ""
 
 
 
-::::
-
-:::: {.column width="65%"}
 
 ## About Me
 
@@ -106,7 +101,3 @@ Contributed Talk
 
 </div>
 
-
-::::
-
-:::
