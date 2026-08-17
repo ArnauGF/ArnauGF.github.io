@@ -5,6 +5,37 @@
 <div class="talk-card">
 
 <div class="talk-conference">
+40th International Workshop on Statistical Modelling (IWSM)
+</div>
+
+Oslo, Norway
+
+<div class="talk-date">
+June 28 -- July 3, 2026
+</div>
+
+
+<div class="talk-authors">
+<strong>A. Garcia-Fernández</strong>, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.
+</div>
+
+<div class="talk-title">
+"A Strictly Proper Metric for Evaluating Dynamic Predictions for Left-Truncated and Right- Censored Data with Asymmetric Misclassification"
+</div>
+
+<div class="talk-badge talk-contributed">
+Contributed Talk
+</div>
+
+<div class="talk-award">
+🏆 Travel Award
+</div>
+
+</div>
+
+<div class="talk-card">
+
+<div class="talk-conference">
 11th Survival Analysis for Junior Researchers (SAfJR)
 </div> 
 

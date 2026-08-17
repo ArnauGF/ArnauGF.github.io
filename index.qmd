@@ -57,32 +57,6 @@ I am a PhD candidate in Biostatistics at Erasmus MC in Rotterdam, the Netherland
 <div class="talk-card">
 
 <div class="talk-conference">
-40th International Workshop on Statistical Modelling (IWSM)
-</div>
-
-Oslo, Norway, June 28 -- July 3, 2026.
-
-<div class="talk-authors">
-<strong>A. Garcia-Fernández</strong>, D. Rizopoulos, J. Kooiman, P. Miranda-Afonso.
-</div>
-
-<div class="talk-title">
-"A Strictly Proper Metric for Evaluating Dynamic Predictions for Left-Truncated and Right- Censored Data with Asymmetric Misclassification"
-</div>
-
-<div class="talk-badge talk-contributed">
-Contributed Talk
-</div>
-
-<div class="talk-award">
-🏆 Travel Award
-</div>
-
-</div>
-
-<div class="talk-card">
-
-<div class="talk-conference">
 47th Annual Conference of the International Society for Clinical Biostatistics (ISCB)
 </div>
 
