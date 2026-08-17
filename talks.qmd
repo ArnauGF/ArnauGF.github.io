@@ -28,7 +28,7 @@ Contributed Talk
 </div>
 
 <div class="talk-award">
-🏆 Travel Awar
+🏆 Travel Award
 </div>
 
 </div>
