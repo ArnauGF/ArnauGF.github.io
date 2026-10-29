@@ -12,6 +12,7 @@ website:
       - software.qmd
       - talks.qmd
       - cv.qmd
+      - goog.qmd
 
   page-footer:
     left: |
